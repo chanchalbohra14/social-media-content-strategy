@@ -29,8 +29,8 @@ This project was developed through the strategic orchestration of three LLMs:
 
 ## 🤝 Contact & Connect
 Created by **Chanchal Bohra**
-- [LinkedIn](INSERT_YOUR_LINKEDIN_URL_HERE)
-- [Portfolio](INSERT_YOUR_PORTFOLIO_URL_HERE)
+- [LinkedIn]https://www.linkedin.com/in/chanchal-kumari-219aba335/
+- [Portfolio](https://chanchal-kumari-portfolio.vercel.app/)
 
 ---
 *If you find this project helpful, feel free to ⭐ the repo!*
